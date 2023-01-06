@@ -1,5 +1,16 @@
 # Project-Management-Form
 
+#Description-
+This project provides a interface to the user for storing data related to a project alloted to a student or employee which makes it easy for companies or schools to manage and store data in the database.The database used in this project is JsonPowerDB.
+
+#Benefits of JsonPowerDB -
+JsonPowerDB is a Database Server with Developer friendly REST API services. It's a High Performance, Light Weight, Ajax Enabled, Serverless, Simple to Use, Real-time Database. Easy and fast to develop database applications without using any server side programming / scripting or without installing any kind of database.
+
+#Release History
+uploaded this project on 07/01/2023
+Right now working properly
+Look for improvement in future
+
 
 <html lang="en">
 <head>
